@@ -7,7 +7,7 @@ namespace Booking3
     static class Program
     {
         public const string CONNECTION_STRING =
-            "SslMode=none;Server=localhost; Database = beavisabra;port=3306;User Id=root";
+            "SslMode=none;Server=vh287.spaceweb.ru;Database=beavisabra;port=3306;User Id=beavisabra;Pwd=Beavis1989";
 
         public static MySqlConnection CONN;
 
